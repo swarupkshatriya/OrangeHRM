@@ -1,12 +1,10 @@
-package testRunnerFile;
+package extentreport;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 import com.aventstack.extentreports.reporter.configuration.ViewName;
-import extentreport.ExtentReportsManager;
-import extentreport.ExtentTestManager;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 

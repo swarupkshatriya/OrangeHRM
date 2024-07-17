@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
-import testRunnerFile.ExtentReportGenerationClass;
+import extentreport.ExtentReportGenerationClass;
 import testdatareader.TestDataReader;
 import userdefinedExceptions.DataIsNotVisible;
 import userdefinedExceptions.FrameIsNotAvailable;

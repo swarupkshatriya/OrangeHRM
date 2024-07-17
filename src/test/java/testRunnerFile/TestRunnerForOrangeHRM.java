@@ -4,6 +4,7 @@ import TestCaseFunctionality.AllTestCasesFunctions;
 import com.aventstack.extentreports.Status;
 
 import driverinitialization.*;
+import extentreport.ExtentReportGenerationClass;
 import extentreport.ExtentTestManager;
 import org.openqa.selenium.WebDriver;
 
@@ -19,7 +20,7 @@ import userdefinedExceptions.TestCaseOrFlagNotFoundException;
 import java.time.Duration;
 import java.util.Map;
 
-public class TestRunnerForOrangeHRM extends ExtentReportGenerationClass{
+public class TestRunnerForOrangeHRM extends ExtentReportGenerationClass {
 
     WebDriver driver;
 
