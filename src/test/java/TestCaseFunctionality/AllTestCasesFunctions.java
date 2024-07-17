@@ -1,9 +1,9 @@
 package TestCaseFunctionality;
 
-import AutomationExcercise.*;
+
 import OrangeHRM.OrangeHRMDashBoardPage;
 import OrangeHRM.OrangeHRMLoginPage;
-import VehicalInsuranceApplication.AutomobileClass;
+
 import commonLibrarymethods.CommonResuableMethods;
 import org.openqa.selenium.*;
 import extentreport.ExtentReportGenerationClass;
